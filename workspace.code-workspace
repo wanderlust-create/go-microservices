@@ -5,6 +5,12 @@
     },
     {
       "path": "broker-services"
+    },
+    {
+      "path": "project"
+    },
+    {
+      "path": "broker-service"
     }
   ]
 }
